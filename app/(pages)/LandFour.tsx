@@ -69,7 +69,7 @@ export default function LandFour() {
             viewport={{ once: true }}
           >
             Super blooms are not only breathtaking natural events, they are vital for ecosystems, 
-            biodiversity, and human understanding of the environment. Here's why they matter:
+            biodiversity, and human understanding of the environment. Here&apos;s why they matter:
           </motion.p>
         </motion.div>
 

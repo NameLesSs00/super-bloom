@@ -76,7 +76,7 @@ export default function LandTwo() {
                 <div>
                   <p className="text-sm md:text-base font-semibold text-white">Dormant Seed Banks</p>
                   <p className="text-sm md:text-base text-white/80">
-                    Beneath the surface lies a hidden seed bank — nature's memory, ready to bloom
+                    Beneath the surface lies a hidden seed bank — nature&apos;s memory, ready to bloom
                     when the time is right.
                   </p>
                 </div>

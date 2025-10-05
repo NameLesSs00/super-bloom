@@ -82,7 +82,7 @@ export default function LandOne() {
             Super Blooming
           </span>{" "}
           is a rare natural phenomenon where deserts burst into color — fields of wildflowers 
-          covering once-barren lands, visible even from space. It's nature's reminder that life 
+          covering once-barren lands, visible even from space. It&apos;s nature&apos;s reminder that life 
           always finds a way.
         </motion.p>
       </motion.div>

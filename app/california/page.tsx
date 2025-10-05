@@ -70,7 +70,7 @@ export default function CaliforniaPage() {
             itemTwo={
               <div className={`relative w-full h-full`}>
                 <img
-                  src={`/after1.jpeg`}
+                  src={`/after.jpeg`}
                   alt={`April 2019 After Superbloom`}
                   className={`w-full h-full object-cover`}
                 />
